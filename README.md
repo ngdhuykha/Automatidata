@@ -26,15 +26,15 @@ The dataset contains the following columns:
 - CustomerID: Unique identifier of the customer
 - Country: Country where the transaction occurred
 
-## Tasks
+## Workflow
 1. Build a dataframe for the TLC data
 2. Organize the data for the process of exploratory data analysis and gather descriptive statistics
 3. Conduct exploratory data analysis on data for the TLC project
 4. Create plots to visualize relationships between relevant variables using Tableau
 5. Investigate TLC’s dataset to determine which hypothesis testing method best serves the data and the TLC project and conduct hypothesis testing for the TLC data
-6. Determine the correct modeling approach and build a regression model for the TLC data
-7. Finish checking model assumptions, evaluate the model, and interpret model results
-8. Perform feature engineering, build a machine learning model for TLC, and evaluate the model, and summarize findings
+6. Determine the correct modeling approach and build a regression model for the TLC data, check model assumptions, evaluate the model, and interpret model results
+7. Perform feature engineering, build a machine learning model for TLC, and evaluate the model
+8. Summarize findings
 
 
 
